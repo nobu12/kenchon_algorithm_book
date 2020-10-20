@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Code3_3 {
 
-	private static int INF = 20000000; // 十分大きな値に
+	private static final int INF = 20000000; // 十分大きな値に
 
 	public static void main(String[] args) {
 		// 入力を受け取る
