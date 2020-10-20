@@ -2,6 +2,11 @@ package chapter2;
 
 import java.util.Scanner;
 
+/**
+ * 二重のfor文（O(N^2)）
+ * @author nobu
+ *
+ */
 public class Code2_2 {
 
 	public static void main(String[] args) {
